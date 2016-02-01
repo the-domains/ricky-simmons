@@ -1,0 +1,28 @@
+name: Ricky Simmons
+favicon: null
+layout_spectrum: 0.22883470659144223
+typography_spectrum: 0.45230251108296216
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3d4548'
+    - '#bebfc3'
+    - '#626469'
+    - '#abacb0'
+    - '#94989b'
+  brandStrength: 0
+  lightness: 0.1875
+  saturation: 0.6875
+  rhythmicContrast: 0.75
+purpose: []
